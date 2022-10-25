@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "last_updated_at": "2022-10-24T23:59:59Z"
+  },
+  "data": {
+    "AUD": {
+      "code": "AUD",
+      "value": 1.579956
+    },
+    "BGN": {
+      "code": "BGN",
+      "value": 1.980616
+    },
+    "BRL": {
+      "code": "BRL",
+      "value": 5.307781
+    },
+    "CAD": {
+      "code": "CAD",
+      "value": 1.369609
+    },
+    "CHF": {
+      "code": "CHF",
+      "value": 0.999618
+    },
+    "CNY": {
+      "code": "CNY",
+      "value": 7.263184
+    },
+    "CZK": {
+      "code": "CZK",
+      "value": 24.75436
+    },
+    "DKK": {
+      "code": "DKK",
+      "value": 7.524585
+    },
+    "EUR": {
+      "code": "EUR",
+      "value": 1.011543
+    },
+    "GBP": {
+      "code": "GBP",
+      "value": 0.884416
+    },
+    "HKD": {
+      "code": "HKD",
+      "value": 7.849874
+    },
+    "HRK": {
+      "code": "HRK",
+      "value": 7.621601
+    },
+    "HUF": {
+      "code": "HUF",
+      "value": 419.202073
+    },
+    "IDR": {
+      "code": "IDR",
+      "value": 15598.257914
+    },
+    "ILS": {
+      "code": "ILS",
+      "value": 3.556172
+    },
+    "INR": {
+      "code": "INR",
+      "value": 82.76387
+    },
+    "ISK": {
+      "code": "ISK",
+      "value": 144.142553
+    },
+    "JPY": {
+      "code": "JPY",
+      "value": 148.895788
+    },
+    "KRW": {
+      "code": "KRW",
+      "value": 1444.984021
+    },
+    "MXN": {
+      "code": "MXN",
+      "value": 19.923605
+    },
+    "MYR": {
+      "code": "MYR",
+      "value": 4.738062
+    },
+    "NOK": {
+      "code": "NOK",
+      "value": 10.501224
+    },
+    "NZD": {
+      "code": "NZD",
+      "value": 1.753108
+    },
+    "PHP": {
+      "code": "PHP",
+      "value": 58.980838
+    },
+    "PLN": {
+      "code": "PLN",
+      "value": 4.842097
+    },
+    "RON": {
+      "code": "RON",
+      "value": 4.967562
+    },
+    "RUB": {
+      "code": "RUB",
+      "value": 61.251103
+    },
+    "SEK": {
+      "code": "SEK",
+      "value": 11.149189
+    },
+    "SGD": {
+      "code": "SGD",
+      "value": 1.421187
+    },
+    "THB": {
+      "code": "THB",
+      "value": 38.221082
+    },
+    "TRY": {
+      "code": "TRY",
+      "value": 18.596318
+    },
+    "USD": {
+      "code": "USD",
+      "value": 1
+    },
+    "ZAR": {
+      "code": "ZAR",
+      "value": 18.410788
+    }
+  }
+}
